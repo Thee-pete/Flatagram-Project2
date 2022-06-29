@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Woofing those bugs away",
       "likes": 0,
-      "image": "https://images.dog.ceo/breeds/frise-bichon/jh-ezio-1.jpg"
+      "image": "https://images.dog.ceo/breeds/dane-great/n02109047_6447.jpg"
     }
   ],
   "comments": [
@@ -22,6 +22,11 @@
       "id": 3,
       "imageId": 1,
       "content": "Woof!"
+    },
+    {
+      "imageId": 1,
+      "content": "no",
+      "id": 4
     }
   ]
 }
